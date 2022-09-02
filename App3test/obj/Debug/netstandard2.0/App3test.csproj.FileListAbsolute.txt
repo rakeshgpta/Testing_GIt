@@ -1,0 +1,17 @@
+C:\Users\rakeshpc\source\repos\App3test\App3test\bin\Debug\netstandard2.0\App3test.deps.json
+C:\Users\rakeshpc\source\repos\App3test\App3test\bin\Debug\netstandard2.0\App3test.dll
+C:\Users\rakeshpc\source\repos\App3test\App3test\bin\Debug\netstandard2.0\ref\App3test.dll
+C:\Users\rakeshpc\source\repos\App3test\App3test\bin\Debug\netstandard2.0\App3test.pdb
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\App3test.csprojAssemblyReference.cache
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\App3test.AssemblyInfoInputs.cache
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\App3test.AssemblyInfo.cs
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\App3test.dll
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\ref\App3test.dll
+C:\Users\rakeshpc\source\repos\App3test\App3test\obj\Debug\netstandard2.0\App3test.pdb
